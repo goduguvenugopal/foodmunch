@@ -1,0 +1,158 @@
+
+*{
+  outline: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+input:valid {
+color: white;
+background-color: green;
+}
+
+#creatbtn{
+  font-size: 17px;
+  color: blue;
+  cursor: pointer;
+}
+ 
+#loginbtn{
+  font-size: 17px;
+  color: blue;
+  cursor: pointer;
+}
+
+
+
+#creatid{
+  display: none;
+}
+
+.formcard{
+   
+
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 30px;
+padding-bottom: 30px;
+border-radius: 20px;
+box-shadow: 0px 0px 20px white;
+}
+ 
+.formcard:hover{
+  box-shadow: 0px 0px 12px  rgb(213, 55, 189);
+}
+
+
+.login-k {
+border: solid;
+padding: 5px;
+border-color: blue;
+}
+
+.forgot-pass {
+text-decoration: none;
+}
+
+
+.span {
+text-decoration: underline;
+}
+
+.login-section{
+  background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+  background-size: cover;
+  height: 120vh;
+
+
+}
+.login-contra {
+height: 60px;
+background:rgb(48, 139, 188);
+padding-top: px;
+padding-left: 10px;
+ 
+
+}
+
+.logo-image {
+width:60px;
+ 
+
+}
+
+
+ 
+
+.email-name {
+font-size: 22px;
+font-family: Roboto;
+
+
+}
+
+.horizontal {
+color: black;
+font-size: 20px;
+
+
+}
+
+.caption {
+font-size: 15px;
+font-family: Roboto;
+
+}
+
+.email-box {
+border-radius: 10px;
+width: 260px;
+height: 34px;
+border:none;
+}
+
+ .lege{
+  font-size: 28px;
+  font-weight: 500;
+ }
+ 
+ 
+ 
+.logo-last-cont {
+background-color: black;
+height: 200px;
+}
+
+.logo-last-img {
+width: 120px;
+
+}
+
+.email {
+font-size: 20px;
+font-family: roboto;
+color: white;
+}
+
+.address-para {
+font-size: 16px;
+font-family: roboto;
+color: white;
+}
+
+ #redirect{
+  border-radius: 20px;
+  width: 260px;
+  margin-top: 10px;
+  padding-bottom: 2px;
+  border: none;
+ }
+
+
+
+ 
+
+
+ 
